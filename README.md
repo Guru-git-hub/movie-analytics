@@ -12,5 +12,5 @@ This project showcases a **movie analytics** system using **SQL**. The dataset i
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/movie-analytics.git
+   git clone https://github.com/Guru-git-hub/movie-analytics.git
    cd movie-analytics
