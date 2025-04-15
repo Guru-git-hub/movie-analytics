@@ -1,0 +1,21 @@
+
+Movie Analytics Project: Real-World Scenario
+
+Business Scenario:
+A movie production company wants to improve its strategic decision-making by analyzing historical movie data. 
+By examining patterns in box office performance, audience ratings, and production budgets, they aim to identify:
+- Most successful genres, directors, and actors.
+- Optimal movie release times.
+- Target audience preferences based on box office and ratings data.
+
+The company wants to use this analysis to:
+- Decide on future movie projects.
+- Improve movie marketing strategies.
+- Streamline budgeting for upcoming productions.
+
+Key Data Insights They Want:
+- Top-grossing movies per year.
+- Top actors and directors based on performance.
+- Most profitable genres.
+- Most frequent collaborations (actor-director partnerships).
+- Average rating by genre.
